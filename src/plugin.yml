@@ -1,0 +1,11 @@
+name: MinigameAPI
+version: 1.0
+main: net.afyer.minigameapi.MinigameAPI
+author: 羽泽
+commands:
+  forcestart:
+permissions:
+  MinigameAPI.default:
+    default: true
+  MinigameAPI.admin:
+    default: op
